@@ -1,6 +1,10 @@
-### Hi there 👋
+### 🪐 Welcome to RefewDev, the unique official account of [Refew](https://t.me/refew).
 
-💬 Ask me about GitHub
+× Check [@progettidirefew](https://t.me/progettidirefew), [@refewfeeds](https://t.me/refewfeeds)
+
+![github_stats](https://github-readme-stats.vercel.app/api?username=refewdev&show_icons=true&theme=radical&include_all_commits=true)
+
+![github_stats_language](https://github-readme-stats.vercel.app/api/top-langs/?username=refewdev&theme=radical&layout=compact)
 
 （＾ω＾）
 
