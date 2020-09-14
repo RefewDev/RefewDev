@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+💬 Ask me about GitHub
+
+（＾ω＾）
+
 <!--
 **RefewDev/RefewDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
